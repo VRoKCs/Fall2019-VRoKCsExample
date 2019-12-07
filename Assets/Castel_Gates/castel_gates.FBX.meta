@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 0660adafe9983fb42805724efc0a1f1c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gates_arc
+    100004: gates_base
+    100006: gates_base 1
+    100008: gates_grid_01
+    100010: gates_grid_02
+    100012: gates_grid_door
+    100014: left_door
+    100016: right_door
+    100018: tower_01
+    100020: tower_02
+    400000: //RootNode
+    400002: gates_arc
+    400004: gates_base
+    400006: gates_base 1
+    400008: gates_grid_01
+    400010: gates_grid_02
+    400012: gates_grid_door
+    400014: left_door
+    400016: right_door
+    400018: tower_01
+    400020: tower_02
+    2300000: gates_arc
+    2300002: gates_base
+    2300004: gates_base 1
+    2300006: gates_grid_01
+    2300008: gates_grid_02
+    2300010: gates_grid_door
+    2300012: left_door
+    2300014: right_door
+    2300016: tower_01
+    2300018: tower_02
+    3300000: gates_arc
+    3300002: gates_base
+    3300004: gates_base 1
+    3300006: gates_grid_01
+    3300008: gates_grid_02
+    3300010: gates_grid_door
+    3300012: left_door
+    3300014: right_door
+    3300016: tower_01
+    3300018: tower_02
+    4300000: gates_grid_door
+    4300002: gates_grid_01
+    4300004: gates_arc
+    4300006: gates_base
+    4300008: right_door
+    4300010: left_door
+    4300012: tower_02
+    4300014: tower_01
+    4300016: gates_base
+    4300018: gates_grid_02
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

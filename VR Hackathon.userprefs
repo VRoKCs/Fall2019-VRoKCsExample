@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="VR Hackathon.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayVideo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayVideo.cs" Line="5" Column="1" />
+      <File FileName="Assets\MediaDecoder\Scripts\MediaDecoder.cs" Line="1" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
